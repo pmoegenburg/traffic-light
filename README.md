@@ -3,8 +3,6 @@
 
 This project simulates a traffic light state machine and includes a test suite for verifying the functionality of the core state transition logic.
 
----
-
 ## Usage
 
 **Build and Run the Simulation**:
