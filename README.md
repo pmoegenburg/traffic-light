@@ -1,7 +1,7 @@
 
 # traffic-light
 
-This project simulates a traffic light state machine and includes a test suite for verifying the functionality of the core state transition logic.
+This project simulates a traffic light state machine and includes tests for verifying the core state transition logic.
 
 ## Usage
 
