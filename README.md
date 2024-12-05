@@ -11,7 +11,7 @@ This project simulates a traffic light state machine and includes tests for veri
    ./traffic_light
    ```
 
-**Build and Run the Test Suite**:
+**Build and Run Tests**:
    ```bash
    make test
    ./test_traffic_light
