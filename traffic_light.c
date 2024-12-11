@@ -32,7 +32,7 @@ void delay_seconds(int seconds) {
 void traffic_light_simulation() {
     LightState current_state = RED;
     while (1) {
-        print_state(current_state);
+        print_state(current_state); // TODO: make this `handle_state`, make `delay_seconds()` calls there
         switch (current_state) {
             case RED:
                 delay_seconds(5);
